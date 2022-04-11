@@ -15,7 +15,7 @@ namespace Day23_problems
         public long phoneNumber { get; set; }
     }
 
-    public class Program
+    public class Day23_problems
     {
         static void Main(string[] args)
         {
